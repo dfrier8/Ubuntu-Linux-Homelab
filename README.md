@@ -28,3 +28,41 @@ Built a dedicated Linux home lab using an older Lenovo laptop to gain hands-on e
 13. Created a local Ubuntu user account and computer name.
 14. Completed the Ubuntu installation.
 15. Restarted the laptop and booted into the installed Ubuntu operating system.
+
+# Phase 2 – Command Line & File Management
+After installing Ubuntu, I created an IT lab directory structure and practiced fundamental Linux command-line and file management tasks.
+
+IT Lab Structure
+Created the following directories:
+
+    backups
+    documentation
+    logs
+    scripts
+    users
+
+
+Commands Used
+
+    pwd – Display the current working directory
+    ls – List directory contents
+    cd – Navigate between directories
+    cd .. – Move to the parent directory
+    mkdir – Create directories
+    touch – Create files
+    mv – Rename or move files
+    cp – Copy files
+    cat – Display file contents
+    uname -a – Display Linux system information
+    > – Redirect command output into a file
+
+
+System Information Documentation
+Used uname -a to retrieve Linux system information and redirected the output into system-info.txt.
+
+Verified the saved information using cat.
+
+File Management Practice
+Practiced creating, renaming, copying, and locating files across the IT lab directory structure using relative paths.
+## Screenshots <img width="1358" height="760" alt="System info uname -a screenshot" src="https://github.com/user-attachments/assets/e7693bd1-521c-401e-84d2-193fd68b061e" />
+<img width="1358" height="760" alt="Directory Screenshot Phase 2" src="https://github.com/user-attachments/assets/d688b9eb-5332-49a3-85f0-a6a60d7efae8" />
